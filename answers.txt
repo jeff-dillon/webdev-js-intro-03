@@ -1,0 +1,19 @@
+Explain why a number data type added to a string data type returns a string.
+
+"Adding" a number to a string performs concatenation of the number to the string
+and returns the resulting concatenated string.
+
+
+Name a scenario where using the == operator could cause a bug.
+
+If you compare an int to a string you could run into issues performing arithmatic on the string.
+1 == "1"
+
+
+
+Name the operator(s) that you find confusing and explain why.
+None
+
+
+Explain a situation where you would use the Modulus operator and why.
+Determine if a number is even or odd
